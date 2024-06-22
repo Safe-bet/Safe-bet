@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ml and CV projects(& Harry Potter Fantasies)
 - 📫 How to reach me k.suyashc@gamil.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Screams which Harry listned near Dementor was actually not his worst memory rather Voldemort's, as Harry was too young to remember anything, so it was the horcrux perceiving its worst memory.
+- ⚡ Fun fact: The screams that Harry heard near the Dementor were not actually his own worst memory. Given that Harry was too young to remember the events of that night, it was likely the Horcrux within him perceiving Voldemort's worst memory
 
 <!---
 Safe-bet/Safe-bet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
