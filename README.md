@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Safe-bet
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently learning WebDev, CV & NLP
 - 💞️ I’m looking to collaborate on Ml and CV projects(& Harry Potter Fantasies)
 - 📫 How to reach me k.suyashc@gamil.com
 - 😄 Pronouns: He/Him
