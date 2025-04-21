@@ -25,9 +25,10 @@ My GitHub Stats
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Safe-bet&bg_color=1e1e2e&text_color=cdd6f4" alt="Safe-bet" /></span>
 
 <!-- Activity Radar Chart -->
-<span><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safe-bet&theme=github_dark" alt="Activity Graph" /></span>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safe-bet&theme=github_dark" alt="Activity Graph" />
+</p>
 
-</div>
 
 <!---
 Safe-bet/Safe-bet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
