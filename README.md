@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning  
 - 🌱 I’m currently learning WebDev, CV & NLP  
 - 💞️ I’m looking to collaborate on ML and CV projects (& Harry Potter Fantasies)  
-- 📫 Reach me at: k.suyashc@gamil.com , ksuyash23@iitk.ac.in
+- 📫 Reach me at: k.suyashc@gmail.com , ksuyash23@iitk.ac.in
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: The screams that Harry heard near the Dementor were not actually his own worst memory. Given that Harry was too young to remember the events of that night, it was likely the Horcrux within him perceiving Voldemort's worst memory.
 
